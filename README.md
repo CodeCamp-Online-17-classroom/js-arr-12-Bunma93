@@ -1,7 +1,7 @@
-# js-lab-97
-### Lab97 Array: การแทนค่าelement
-ให้เขียนโค้ดเพื่อลบ Jay ออกและใส่ Jack และ Joe เข้าไปแทน
+# js-lab-98
+### Lab98 Array: การเพิ่มค่าelement
+ให้เพิ่ม mazda bmw และ nissan เข้าไปใน cars โดยให้อยู่ข้างหลัง honda
 
 ```JavaScript
-const person = ['John', 'Jay', 'Jim', 'Jame'];
+const cars = ['volvo', 'toyota', 'honda', 'ford'];
 ```
